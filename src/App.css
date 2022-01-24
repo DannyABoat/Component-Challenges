@@ -1,0 +1,18 @@
+.pics {
+  display:flex;
+  justify-content: space-evenly;
+
+}
+img {
+  max-width: 200px;
+  max-height: 200px;
+  border: inherit;
+}
+.headlines{
+  display:flex;
+  justify-content: space-around;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+}
